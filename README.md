@@ -20,4 +20,4 @@ Performed Univariate and Bivariate Analysis,exploratory data analysis,Check for 
 ### Comparision of model and Best model :
 Random forest classifier , NB Model , Logistic regression are model which seems to perform fair
 •	LINEAR REGRESSION AND NB MODEL SEEM TO HAVE PERFORM WELL 
-•	BAGGING AND BOOSTING AS WELL HAV GOOD 
+•	BAGGING AND BOOSTING AS WELL HAVE GOOD PERFORMANCE
